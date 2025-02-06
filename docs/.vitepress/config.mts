@@ -17,7 +17,7 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: 'Getting Started',
+            text: 'Gatechain Developer Docs',
             items: [
               { text: 'Quick Start', link: '/quick-start' },
             ]
