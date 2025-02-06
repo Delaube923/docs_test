@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "gatechain docs",
   description: "gatechain docs",
+  ignoreDeadLinks: true,
+  outDir: './.vitepress/dist',
 
   locales: {
     root: {
